@@ -45,7 +45,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: darkflib
           template: classic
-          base: none
+          base: []
           config_timezone: Europe/London
           plugin_isocalendar: no
           plugin_languages: no
@@ -62,7 +62,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: darkflib
           template: classic
-          base: none
+          base: []
           config_timezone: Europe/London
           plugin_isocalendar: no
           plugin_languages: no
