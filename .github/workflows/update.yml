@@ -56,7 +56,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
           
-        - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-sponsors.svg
           token: ${{ secrets.GH_TOKEN }}
