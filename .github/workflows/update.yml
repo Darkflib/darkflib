@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.GH_TOKEN }}
           user: darkflib
           template: classic
@@ -26,4 +27,48 @@ jobs:
           plugin_stars_limit: 25
           plugin_topics: yes
           plugin_sponsors: yes
+          plugin_achievements: yes
           
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-achievments.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Lond
+          plugin_achievements: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-stars.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_activity: no
+          plugin_stars: yes
+          plugin_stars_limit: 25
+          plugin_topics: no
+          plugin_sponsors: no
+          plugin_achievements: no
+          
+        - uses: lowlighter/metrics@latest
+        with:
+          filename: github-sponsors.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_activity: no
+          plugin_stars: no
+          plugin_stars_limit: 25
+          plugin_topics: no
+          plugin_sponsors: yes
+          plugin_achievements: no
