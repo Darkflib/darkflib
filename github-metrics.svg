@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6651 Commits
+                            6699 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -236,7 +236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>majek/puka</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Puka - the opinionated RabbitMQ client</div>
@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x00string/generic-mastodon-bot</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockerfile/supervisor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supervisor Dockerfile for trusted automated Docker builds.</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiagocoutinho/multivisor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Centralized supervisor WebUI and CLI</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skarnet/s6</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The s6 supervision suite.</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aleszoulek/supervisor-wildcards</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implemenents start/stop/restart commands with wildcard support for Supervisor</div>
@@ -549,7 +549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/distribution-library-image</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -597,7 +597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimmy201602/supervisoradmin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">supervisor admin is a centralized management tools written by django</div>
@@ -650,7 +650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infoxchange/supervisor-logging</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logging plugin for Supervisor</div>
@@ -703,7 +703,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cedricporter/supervisor_conf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My supervisor config file</div>
@@ -750,7 +750,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CodeNow/dockworker</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Per container supervisor</div>
@@ -797,7 +797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davmac314/dinit</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Service monitoring / "init" system</div>
@@ -850,7 +850,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasoncorbett/ordered-startup-supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an event listener for supervisord that does ordered startup</div>
@@ -903,7 +903,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimovnike/alpine-supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">simple docker image with supervisord</div>
@@ -944,7 +944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FRiCKLE/ngx_supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nginx module providing API to communicate with supervisord and manage (start/stop) backends on-demand.</div>
@@ -997,7 +997,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leafney/docker-flask</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alpine + Docker + Flask + Gunicorn + Supervisor</div>
@@ -1044,7 +1044,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcalazan/ansible-django-stack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.</div>
@@ -1097,7 +1097,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AndreiD/Flask-Easy-Template</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template web app with Flask. Features: latest bootstrap, user registry, login, forgot password. Secured admin panel, pagination, config files for Nginx and Supervisor and much more.</div>
@@ -1144,7 +1144,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HEXA-UA/supervisor-manager</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YII2 Graphical interface to the supervisor process manager</div>
@@ -1197,7 +1197,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorakhargosh/watchdog</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python library and shell utilities to monitor filesystem events.</div>
@@ -1250,7 +1250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>msiemens/tinydb</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TinyDB is a lightweight document oriented database optimized for your happiness :)</div>
@@ -1303,7 +1303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shlomi-noach/awesome-mysql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome MySQL software, libraries, tools and resources</div>
@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhamaniasad/awesome-postgres</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>igorsheg/astro</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open, extensible, dashboard for all of your homelab services.</div>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefikturkey/onramp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Traefik with all the stuffing</div>
@@ -1570,7 +1570,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.93360711841206 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.01848049281313 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1717,7 +1717,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.31625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.3085 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1740,9 +1740,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.53k out of 362m repositories</span>
+                                    <span class="gh">ranked 5.54k out of 362m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5815 stars</div>
+                                <div class="text">Maintaining a repository with 5814 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1901,7 +1901,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 190k out of 104m users</span>
+                                    <span class="gh">ranked 191k out of 104m users</span>
                                 </div>
                                 <div class="text">Followed by 48 users</div>
                             </div>
@@ -2013,7 +2013,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 864k out of 362m repositories</span>
+                                    <span class="gh">ranked 865k out of 362m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2218,7 +2218,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2022, 02:54:45 (timezone Europe/London) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 14 Dec 2022, 02:53:04 (timezone Europe/London) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
