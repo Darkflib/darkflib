@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>majek/puka</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Puka - the opinionated RabbitMQ client</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x00string/generic-mastodon-bot</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -130,7 +130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockerfile/supervisor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supervisor Dockerfile for trusted automated Docker builds.</div>
@@ -183,7 +183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiagocoutinho/multivisor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Centralized supervisor WebUI and CLI</div>
@@ -236,7 +236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skarnet/s6</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The s6 supervision suite.</div>
@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aleszoulek/supervisor-wildcards</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implemenents start/stop/restart commands with wildcard support for Supervisor</div>
@@ -336,7 +336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/distribution-library-image</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jimmy201602/supervisoradmin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">supervisor admin is a centralized management tools written by django</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infoxchange/supervisor-logging</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logging plugin for Supervisor</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cedricporter/supervisor_conf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My supervisor config file</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CodeNow/dockworker</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Per container supervisor</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davmac314/dinit</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Service monitoring / "init" system</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jasoncorbett/ordered-startup-supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an event listener for supervisord that does ordered startup</div>
@@ -690,7 +690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimovnike/alpine-supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">simple docker image with supervisord</div>
@@ -731,7 +731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FRiCKLE/ngx_supervisord</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nginx module providing API to communicate with supervisord and manage (start/stop) backends on-demand.</div>
@@ -784,7 +784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leafney/docker-flask</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alpine + Docker + Flask + Gunicorn + Supervisor</div>
@@ -831,7 +831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcalazan/ansible-django-stack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.</div>
@@ -884,7 +884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AndreiD/Flask-Easy-Template</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template web app with Flask. Features: latest bootstrap, user registry, login, forgot password. Secured admin panel, pagination, config files for Nginx and Supervisor and much more.</div>
@@ -931,7 +931,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HEXA-UA/supervisor-manager</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YII2 Graphical interface to the supervisor process manager</div>
@@ -984,7 +984,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorakhargosh/watchdog</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python library and shell utilities to monitor filesystem events.</div>
@@ -1037,7 +1037,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>msiemens/tinydb</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TinyDB is a lightweight document oriented database optimized for your happiness :)</div>
@@ -1090,7 +1090,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shlomi-noach/awesome-mysql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome MySQL software, libraries, tools and resources</div>
@@ -1137,7 +1137,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhamaniasad/awesome-postgres</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql</div>
@@ -1184,7 +1184,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>igorsheg/astro</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open, extensible, dashboard for all of your homelab services.</div>
@@ -1231,7 +1231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefikturkey/onramp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Traefik with all the stuffing</div>
