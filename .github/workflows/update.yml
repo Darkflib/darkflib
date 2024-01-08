@@ -141,6 +141,11 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
 
+      # debug README.md
+      - name: Debug README.md
+        run: |
+          tree -a
+
       # shell script to assemble the README.md
       - name: Assemble README.md
         run: |
