@@ -20,14 +20,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
-          plugin_isocalendar: no
-          plugin_languages: no
-          plugin_activity: no
-          plugin_stars: yes
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_activity: yes
+          plugin_stars: no
           plugin_stars_limit: 25
-          plugin_topics: yes
-          plugin_sponsors: yes
-          plugin_achievements: yes
+          plugin_topics: no
+          plugin_sponsors: no
+          plugin_achievements: no
           
       - uses: lowlighter/metrics@latest
         with:
@@ -51,10 +51,26 @@ jobs:
           plugin_languages: no
           plugin_activity: no
           plugin_stars: yes
-          plugin_stars_limit: 25
+          plugin_stars_limit: 10
           plugin_topics: no
           plugin_sponsors: no
           plugin_achievements: no
+      - uses: lowlighter/metrics@latest
+        with:
+            filename: github-stars-more.svg
+            token: ${{ secrets.GH_TOKEN }}
+            user: darkflib
+            template: classic
+            base:
+            config_timezone: Europe/London
+            plugin_isocalendar: no
+            plugin_languages: no
+            plugin_activity: no
+            plugin_stars: yes
+            plugin_stars_limit: 100
+            plugin_topics: no
+            plugin_sponsors: no
+            plugin_achievements: no
           
       - uses: lowlighter/metrics@latest
         with:
@@ -71,4 +87,55 @@ jobs:
           plugin_stars_limit: 25
           plugin_topics: no
           plugin_sponsors: yes
+          plugin_achievements: no
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-topics.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base:
+          config_timezone: Europe/London
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_activity: no
+          plugin_stars: no
+          plugin_stars_limit: 25
+          plugin_topics: yes
+          plugin_sponsors: no
+          plugin_achievements: no
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-activity.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base:
+          config_timezone: Europe/London
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_activity: yes
+          plugin_stars: no
+          plugin_stars_limit: 25
+          plugin_topics: no
+          plugin_sponsors: no
+          plugin_achievements: no
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-activity.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: darkflib
+          template: classic
+          base:
+          config_timezone: Europe/London
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_activity: yes
+          plugin_stars: no
+          plugin_stars_limit: 25
+          plugin_topics: no
+          plugin_sponsors: no
           plugin_achievements: no

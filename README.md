@@ -19,6 +19,10 @@ Status:
 <super>*1</super> These are my private repos and their contents and my statements and opinions don't necessarily represent those of my employer.
 
 ![Metrics](/github-metrics.svg)
+![Stars](/github-stars.svg)
+![Activity](/github-activity.svg)
+![Achievements](/github-achievements.svg)
+
 
 <!--
 **Darkflib/darkflib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
