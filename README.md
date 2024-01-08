@@ -1,6 +1,6 @@
 # S'up?
 
-I will be parking my twitter account due to a certain space-karen changing the rules to favour extreme right-wing groups and sites under the guise of free speech .
+I will be parking my twitter account due to a certain space-karen changing the rules to favour extreme right-wing groups and sites under the guise of free speech.
 
 You can find me on mastodon: https://defcon.social/@darkflib
 
@@ -12,7 +12,7 @@ Status:
 - 💬 Happy to chat about geeky stuff.
 - 📫 How to reach me: email darkflib @ gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I was in uni, I crewed for many bands and groups. These have included 'Bowling for Soup', 'Petshop Boys', 'Tiffany', 'Chesney Hawkes', 'Cheeky Girls', 'Andrew WK' and many more. I can kayak and Canoe and hold a BCU 2*. 
+- ⚡ Fun fact: When I was in uni, I crewed for many bands and groups. These have included 'Bowling for Soup', 'Petshop Boys', 'Tiffany', 'Chesney Hawkes', 'Cheeky Girls', 'Andrew WK' and many more. I can kayak and Canoe and hold a BCU 3*. 
 
 <hr />
 <a id="footnote"></a>
