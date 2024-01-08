@@ -55,7 +55,7 @@ jobs:
           plugin_topics: no
           plugin_sponsors: no
           plugin_achievements: no
-          
+
       - uses: lowlighter/metrics@latest
         with:
           filename: github-stars-more.svg
@@ -140,3 +140,20 @@ jobs:
           plugin_topics: no
           plugin_sponsors: no
           plugin_achievements: no
+
+      # shell script to assemble the README.md
+      - name: Assemble README.md
+        run: |
+          cat README.md.header > README.md
+          cat blog-posts.md >> README.md
+          cat README.md.footer >> README.md
+
+      # commit the changes
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update README.md"
+          git push
+          

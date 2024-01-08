@@ -1,0 +1,3 @@
+# Placeholder for blogposts
+
+Will be pulled in by the blogposts action...
