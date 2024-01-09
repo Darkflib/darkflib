@@ -12,6 +12,31 @@ jobs:
     permissions:
       contents: write
     steps:
+      # checkout the repository to the GitHub Actions runner
+      - name: Checkout
+        uses: actions/checkout@v2
+      # install dependencies
+      - name: Add packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          sudo apt-get install -y python3-setuptools
+          sudo apt-get install -y python3-wheel
+          sudo apt-get install -y python3-dev
+          pip3 install --upgrade pip
+      # debug README.md
+      - name: Debug README.md
+        run: |
+          pwd
+          ls -la
+    
+      # shell script to assemble the README.md
+      - name: Assemble README.md
+        run: |
+          cat README.md.header > README.md
+          cat blog-posts.md >> README.md
+          cat README.md.footer >> README.md
+
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
@@ -140,20 +165,6 @@ jobs:
           plugin_topics: no
           plugin_sponsors: no
           plugin_achievements: no
-
-      # debug README.md
-      - name: Debug README.md
-        run: |
-          pwd
-          ls -la
-          
-
-      # shell script to assemble the README.md
-      - name: Assemble README.md
-        run: |
-          cat README.md.header > README.md
-          cat blog-posts.md >> README.md
-          cat README.md.footer >> README.md
 
       # commit the changes
       - name: Commit files
