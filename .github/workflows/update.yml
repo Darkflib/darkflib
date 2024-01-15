@@ -36,7 +36,7 @@ jobs:
           cat README.md.header > README.md
           cat blog-posts.md >> README.md
           cat README.md.footer >> README.md
-          echo "[//]: # (`date`)" >> README.md
+          echo "\n[//]: # (`date`)\n\n" >> README.md
 
       - uses: lowlighter/metrics@latest
         with:
