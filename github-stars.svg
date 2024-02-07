@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eventphone/guru3</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic User Registration Utility v3</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tispratik/docs-1</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The docs and guides for building channels with Roku OS</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>che-incubator/kubernetes-image-puller</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes Image Puller is used for caching images on a cluster. It creates a DaemonSet downloading and running the relevant container images on each node.</div>
@@ -176,7 +176,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rokudev/samples</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of sample channels for side-loading on your Roku device</div>
@@ -229,7 +229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcarbaugh/python-roku</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Screw remotes. Control your Roku with Python.</div>
@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gl-inet/sdk</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenWRT SDK for GL.iNet devices</div>
@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discourse/discourse</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for community discussion. Free, open, simple.</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asterics/esp32_mouse_keyboard</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID)</div>
@@ -435,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uber/h3</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jan 08 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hexagonal hierarchical geospatial indexing system</div>
@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skibish/ddns</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jan 08 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal DDNS client with Digital Ocean Networking DNS as backend.</div>
