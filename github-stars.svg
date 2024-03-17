@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wakatime/wakatime-cli</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line interface used by all WakaTime text editor plugins</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muety/wakapi</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MacroPower/wakatime_exporter</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exports Prometheus metrics from Wakatime.</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espressif/esp-iot-solution</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.</div>
@@ -235,7 +235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>archiecobbs/s3backer</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FUSE/NBD single file backing store via Amazon S3</div>
@@ -288,7 +288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ctrox/csi-s3</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Container Storage Interface for S3</div>
@@ -341,7 +341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sciosense/ens16x-arduino</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Arduino library for the ENS16x digital metal-oxide multi-gas sensor family</div>
