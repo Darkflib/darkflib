@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ElvisAns/ai-chatbot-demo</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -77,7 +77,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1Password/install-cli-action</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install 1Password CLI into your GitHub Actions jobs.</div>
@@ -130,7 +130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1Password/check-signed-commits-action</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to check PRs for signed commits</div>
@@ -177,7 +177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1Password/load-secrets-action</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Load secrets from 1Password into your GitHub Actions jobs</div>
@@ -230,7 +230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michalsvorc/docker-inkscape</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Inkscape executable Docker image based on Alpine Linux.</div>
@@ -283,7 +283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxserver/docker-inkscape</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web accessible Inkscape inside an Alpine Container</div>
@@ -336,7 +336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gotthardp/rabbitmq-email</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SMTP Gateway Plugin for RabbitMQ</div>
@@ -389,7 +389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabbitmq/rabbitmq-management-exchange</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>poezio/slixmpp</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SleekXMPP fork using asyncio, for poezio - Github copy</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rapidfuzz/RapidFuzz</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rapid fuzzy string matching in Python using various string metrics</div>
