@@ -1254,6 +1254,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1275,7 +1280,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">RyanEwen/esphome-lvgl</span>
+                                        <span class="repo">GauthamVarmaK/addon-tvheadend</span>
                                     </div>
                                 </div>
                             </section>
@@ -1288,7 +1293,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">w-corbello/ESP32_CYD_MQTT</span>
+                                        <span class="repo">ThomDietrich/home-assistant-addons</span>
                                     </div>
                                 </div>
                             </section>
@@ -1301,7 +1306,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">improv-wifi/sdk-cpp</span>
+                                        <span class="repo">BenoitAnastay/home-assistant-addons-repository</span>
                                     </div>
                                 </div>
                             </section>
@@ -1314,7 +1319,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">witnessmenow/ESP-Web-Tools-Tutorial</span>
+                                        <span class="repo">BenoitAnastay/paperless-home-assistant-addon</span>
                                     </div>
                                 </div>
                             </section>
@@ -1327,7 +1332,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">adafruit/Adafruit_WebSerial_ESPTool</span>
+                                        <span class="repo">alex3305/home-assistant-addons</span>
                                     </div>
                                 </div>
                             </section>
@@ -1337,7 +1342,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 02:56:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2024, 02:56:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
