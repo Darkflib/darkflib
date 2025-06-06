@@ -7,7 +7,7 @@ You can find me on mastodon: https://defcon.social/@darkflib
 I am a Former SRE Team-Lead at News Corp. My title has changed a few times over my time there, but my role (and most of my team) has stayed majorly the same.
 
 Status:
-- 🔭 I’m currently looking for work... and as a personal project I am building a cyberdeck; a portable computer styled after the types of cobbled together systems made popular in cyberpunk books and films.
+- 🔭 I’m currently working on a new frontend redirection service for work... and as a personal project I am building a cyberdeck; a portable computer styled after the types of cobbled together systems made popular in cyberpunk books and films.
 - 🌱 I’m currently focusing my learning on microcontrollers and electronics - a lot has changed since I was playing with them in the 90s.
 - 💬 Happy to chat about geeky stuff.
 - 📫 How to reach me: email darkflib @ gmail.com
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 # Placeholder for blogposts
 
 Will be pulled in by the blogposts action...
-[//]: # (Fri Jun  6 03:06:43 UTC 2025)
+[//]: # (Fri Jun  6 17:56:18 UTC 2025)
 
 
