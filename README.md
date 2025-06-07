@@ -4,7 +4,7 @@ I will be parking my twitter account due to a certain space-karen changing the r
 
 You can find me on mastodon: https://defcon.social/@darkflib
 
-I am a Former SRE Team-Lead at News Corp. My title has changed a few times over my time there, but my role (and most of my team) has stayed majorly the same.
+I am Cloud Engineering Team-Lead at News Tech<a href="#footnote"><super>*1</super></a>, a subsidary of News Corp. My title has changed a few times over my time here, but my role (and most of my team) has stayed majorly the same.
 
 Status:
 - 🔭 I’m currently working on a new frontend redirection service for work... and as a personal project I am building a cyberdeck; a portable computer styled after the types of cobbled together systems made popular in cyberpunk books and films.
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 # Placeholder for blogposts
 
 Will be pulled in by the blogposts action...
-[//]: # (Fri Jun  6 17:56:18 UTC 2025)
+[//]: # (Sat Jun  7 03:04:30 UTC 2025)
 
 
