@@ -24,7 +24,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/functions-framework-3.x</span>
+                                        <span class="code">renovate/google-cloud-pubsub-2.x</span>
                                         in
                                         <span class="repo">Darkflib/wwff-saas-template</span>
                                     </div>
@@ -45,8 +45,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4332c04</div>
-                                        <div class="message">Update dependency functions-framework to v3.9.2 (#22)
+                                        <div class="sha">#2f6a902</div>
+                                        <div class="message">Update dependency google-cloud-pubsub to v2.31.1 (#25)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -61,12 +61,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#22 Update dependency functions-framework to v3.9.2</span>
+                                        <span class="issue">#25 Update dependency google-cloud-pubsub to v2.31.1</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">Darkflib/wwff-saas-template</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>3 files changed <span class="code">++35 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -79,7 +79,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/flake8-7.x</span>
+                                        <span class="code">renovate/google-cloud-logging-3.x</span>
                                         in
                                         <span class="repo">Darkflib/wwff-saas-template</span>
                                     </div>
@@ -100,8 +100,8 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#733dec0</div>
-                                        <div class="message">Update dependency flake8 to v7.3.0 (#21)
+                                        <div class="sha">#47ac9c3</div>
+                                        <div class="message">Update dependency google-cloud-logging to v3.12.1 (#24)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
