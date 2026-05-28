@@ -14,7 +14,7 @@ jobs:
     steps:
       # checkout the repository to the GitHub Actions runner
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       # install dependencies
       - name: Add packages
         run: |
