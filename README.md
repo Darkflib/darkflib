@@ -4,11 +4,11 @@ I will be parking my twitter account due to a certain space-karen changing the r
 
 You can find me on mastodon: https://defcon.social/@darkflib
 
-~I am Cloud Engineering Team-Lead at News Tech, a subsidary of News Corp. My title has changed a few times over my time here, but my role (and most of my team) has stayed majorly the same.~
+I am currently accepting short term contracts - see http://mikepreston.org/
 
 Status:
-- 🔭 ~I’m currently working on a new frontend redirection service for work...~ and as a personal project I am building a cyberdeck; a portable computer styled after the types of cobbled together systems made popular in cyberpunk books and films.
-- 🌱 I’m currently focusing my learning on microcontrollers and electronics - a lot has changed since I was playing with them in the 90s.
+- 🔭 Currently I am mostly working with agentic systems - in particular, harnesses, grounding, and evaluating outputs.
+- 🌱 I’m currently focusing my learning on understanding the theory behind modern agent-based systems.
 - 💬 Happy to chat about geeky stuff.
 - 📫 How to reach me: email darkflib @ gmail.com
 - 😄 Pronouns: He/Him
