@@ -26,15 +26,14 @@ life I crewed for everyone from the Pet Shop Boys to Bowling for Soup.
 
 ![Metrics](/github-metrics.svg)
 ![Stars](/github-stars.svg)
-# Placeholder for blogposts
 
-Will be pulled in by the blogposts action...
+
 ---
 
 Supported, flagship work → [wwff-tech](https://github.com/wwff-tech) ·
 Consulting → [wwff.tech](https://wwff.tech) ·
 Writing → [mikepreston.org](https://mikepreston.org)
 
-[//]: # (Wed Jun 10 11:35:49 UTC 2026)
+[//]: # (Wed Jun 10 11:51:05 UTC 2026)
 
 
