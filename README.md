@@ -33,6 +33,6 @@ Supported, flagship work → [wwff-tech](https://github.com/wwff-tech) ·
 Consulting → [wwff.tech](https://wwff.tech) ·
 Writing → [mikepreston.org](https://mikepreston.org)
 
-[//]: # (Tue Aug 18 02:54:43 UTC 2026)
+[//]: # (Thu Aug 20 02:54:48 UTC 2026)
 
 
