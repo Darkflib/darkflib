@@ -14,7 +14,7 @@ jobs:
     steps:
       # checkout the repository to the GitHub Actions runner
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       # install dependencies
       - name: Add packages
         run: |
@@ -41,7 +41,7 @@ jobs:
 
           " >> README.md
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -58,7 +58,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
           
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-achievements.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -68,7 +68,7 @@ jobs:
           config_timezone: Europe/London
           plugin_achievements: yes
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-stars.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -85,7 +85,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-stars-more.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -102,7 +102,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
           
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-sponsors.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -119,7 +119,7 @@ jobs:
           plugin_sponsors: yes
           plugin_achievements: no
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-topics.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -136,7 +136,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-activity.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -153,7 +153,7 @@ jobs:
           plugin_sponsors: no
           plugin_achievements: no
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: github-activity.svg
           token: ${{ secrets.GH_TOKEN }}
